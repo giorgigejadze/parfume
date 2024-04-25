@@ -1,0 +1,76 @@
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+div{
+  background: hsl(0, 0%, 100%);
+    color: #000000;
+    font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+    display: inline-block;
+    height: 510px;
+    line-height: 30px;
+    margin: 0 660px;
+    text-align: start;
+    width: 680px;
+    position: relative;
+    top: 180px; left: 0px;
+}
+.di{
+  border-radius: 10px;
+}
+.perf{
+  position: relative;
+  top: -460px; left: 370px;
+  letter-spacing: .2rem;
+  color: hsl(228, 12%, 48%);
+}
+img{
+  position: relative;
+  top: 0px; left: -91px;
+  height: 510px;
+  width: 340px;
+}
+.imgstyle{
+  border-end-end-radius: 10px;
+  writing-mode: vertical-rl;
+  border-end-start-radius: 10px;
+  writing-mode: vertical-rl;  
+}
+name{
+  position: relative;
+  top: -450px; left: 370px;
+  text-align: start;
+  color: #000000;
+}
+text{
+  position: relative;
+  top: -440px; left: 370px;
+  color: hsl(228, 12%, 48%);
+}
+price{
+  color: hsl(158, 36%, 37%);
+  position: relative;
+  top: -430px; left: 368px;
+}
+.oldprice{
+  color: hsl(228, 12%, 48%);
+  position: relative;
+  top: -490px; left: 520px; 
+}
+button{
+  background-color: hsl(158, 40%, 18%);
+  color: hsl(0, 0%, 100%);
+  position: relative;
+  top: -417px; left: 300px;
+  height: 55px;
+  width: 280px;
+  border-radius: 10px;
+}
+h3{
+  position: relative;
+  top: 0px; left: 10px;
+}
+cart{
+  color:hsl(0, 0%, 100%);
+  position: relative;
+  top: -417px; left: 89px;
+}
